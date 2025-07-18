@@ -20,7 +20,8 @@
     Which color would you like to use as the base color? › Neutral
 
     npx shadcn@latest add button (crea un componente Button)
-
+    ## For install more components like (Card, input, label)
+    npx shadcn@latest add "https://v0.dev/chat/b/DGi7V8T20FD"
 - V0 - Login interface https://v0.dev/chat/two-card-login-sMKWoEc3WDV?b=DGi7V8T20FD
 - V0 - Chat interface https://v0.dev/chat/customer-chat-ZD2d3LlccrZ?b=b_xrA25ieQihs
 
