@@ -1,10 +1,14 @@
-import { LoginForm } from "./components/login-form"
+import ChatLayout from "./chat/layout/ChatLayout"
+import ChatPage from "./chat/pages/ChatPage"
+// import { LoginForm } from "./components/login-form"
 
 function App() {
 
   return (
     <>          
-      <LoginForm />
+      <ChatLayout>
+        <ChatPage></ChatPage>
+      </ChatLayout>
     </>
   )
 }
