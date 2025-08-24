@@ -28,5 +28,15 @@
 - https://cursor.directory
 - https://cursor.directory/nextjs-react-typescript-cursor-rules
 
-# practicaReactRouterFH
-This reppo is to practice some React Router
+# Extensions for VS
+- Error Lens
+- Better Comments
+- ES7 React/Redux
+- React Simple Snippets
+- Auto Close Tag
+- Paste JSON as Code
+- Backticks
+
+# URL to others projects
+- https://github.com/Klerith/mas-talento
+  
